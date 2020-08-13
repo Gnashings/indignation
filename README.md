@@ -10,7 +10,7 @@ Indignation was an attempt at recreating some of their popular mechanics with ou
 ## List of Features we Managed to Implement:
 - Blocking & Parrying
 - Enemy AI
-- Rolling
+- Evasion Mechanics
 - Camera Systems
 - UI
 - Rage Mode*
